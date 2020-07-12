@@ -1,0 +1,8 @@
+BONUS FEATURES
+
+Here are the bonus features that we have implemented in our straights game.
+
+1) adding	a textual record of the players' plays. We output all of the plays to the terminal so the user can keep track of all the steps that occured in the game. 
+2) providing visual cues to which cards are legal plays. There is a blue line below each card that is a legal card the user can play. This line will appear if the user has a legal card they can play (not discard). 
+3  Increased Computer AI by checking all available cards in hand, come discard time, and discarding the one with the lowest rank. This is activated by having a command argument -h (Therefore it needs to run as ./straights -h)
+4) Advanced GUI interface with enhanced cards png editted from Photoshop.
